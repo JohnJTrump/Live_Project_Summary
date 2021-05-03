@@ -58,14 +58,14 @@ If a user selected the delete function while on the selected theater page it dis
 <br>
 Below are a couple snippets of code which were used to create this app. 
 <br>
-![image](https://user-images.githubusercontent.com/77506001/116933114-f3d54e00-ac17-11eb-8fca-f77a4504bc75.png)
+![image](https://user-images.githubusercontent.com/77506001/116933114-f3d54e00-ac17-11eb-8fca-f77a4504bc75.png)<br>
 Above you can see the Django model which connects to a SQlite created database. With this model I chose to have 4 drop down menus for ease of data entry, collection and retrieving. 
 <br>
 <br>
 <br>
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/77506001/116933164-064f8780-ac18-11eb-8931-60206d55720c.png)
+![image](https://user-images.githubusercontent.com/77506001/116933164-064f8780-ac18-11eb-8931-60206d55720c.png)<br>
 Above is a snippet of a few functions created inside Django which were used in the app. 
 <br>
 <br>
