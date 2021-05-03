@@ -7,8 +7,10 @@ My assignment dealt with gathering information about movie theaters and what typ
 
 I began the project by attaching an app icon fitting of the content:  
  
-![image](https://user-images.githubusercontent.com/77506001/116932128-bd4b0380-ac16-11eb-92de-97bb9fc0a5d5.png)
+![image](https://user-images.githubusercontent.com/77506001/116932128-bd4b0380-ac16-11eb-92de-97bb9fc0a5d5.png)<br>
 When a user hovers over the image above, the text: “Theaters and Features” appears in the gray translucent box.
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -17,8 +19,12 @@ Once the user clicks on the image it brings them to the home screen pictured bel
 <br>
 <br>
 <br>
+<br>
+<br>
 When a User selects “Add a Theater”, they are linked to a data entry page, seen below. This page allows the user to add key features about a theater which then saves the users entries in a database. 
 ![image](https://user-images.githubusercontent.com/77506001/116932773-87f2e580-ac17-11eb-8a35-da8ccb4323f8.png)
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -27,8 +33,12 @@ A user also has the ability to view the Theaters which have been saved in the da
 <br>
 <br>
 <br>
+<br>
+<br>
 When a theater is selected from the table shown above, it links the user to a page specific to that theater displaying all data associated with it, pictured below. This screen also gives the user the ability to edit the entry, or completely delete it from the database. 
 ![image](https://user-images.githubusercontent.com/77506001/116932886-af49b280-ac17-11eb-8ccd-189085e5670f.png)
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -37,8 +47,11 @@ If a user clicks the edit link it brings them to the data entry page specific to
 <br>
 <br>
 <br>
+<br>
+<br>
 If a user selected the delete function while on the selected theater page it displays a confirmation page, shown below, asking the user if they are sure they would like to delete the theater from the database. 
 ![image](https://user-images.githubusercontent.com/77506001/116933038-dc966080-ac17-11eb-8714-98560e3ee1cf.png)
+<br>
 <br>
 <br>
 <br>
@@ -50,8 +63,12 @@ Above you can see the Django model which connects to a SQlite created database. 
 <br>
 <br>
 <br>
+<br>
+<br>
 ![image](https://user-images.githubusercontent.com/77506001/116933164-064f8780-ac18-11eb-8931-60206d55720c.png)
 Above is a snippet of a few functions created inside Django which were used in the app. 
+<br>
+<br>
 <br>
 <br>
 <br>
